@@ -1,4 +1,4 @@
-# template
+# About the space
 This is for the class **The Principles of User Experience Design**. the space si part of the place to learn Github, track your team to-dos with a visualy method.
 
 
